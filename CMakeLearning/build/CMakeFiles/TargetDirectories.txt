@@ -1,0 +1,9 @@
+/home/kienhoang128/WorkSpace/kienhoang128199x-CMakeLearningImportant/CMakeLearning/build/CMakeFiles/fileRun.dir
+/home/kienhoang128/WorkSpace/kienhoang128199x-CMakeLearningImportant/CMakeLearning/build/CMakeFiles/edit_cache.dir
+/home/kienhoang128/WorkSpace/kienhoang128199x-CMakeLearningImportant/CMakeLearning/build/CMakeFiles/rebuild_cache.dir
+/home/kienhoang128/WorkSpace/kienhoang128199x-CMakeLearningImportant/CMakeLearning/build/lib/lib64/CMakeFiles/MyLib64Library.dir
+/home/kienhoang128/WorkSpace/kienhoang128199x-CMakeLearningImportant/CMakeLearning/build/lib/lib64/CMakeFiles/edit_cache.dir
+/home/kienhoang128/WorkSpace/kienhoang128199x-CMakeLearningImportant/CMakeLearning/build/lib/lib64/CMakeFiles/rebuild_cache.dir
+/home/kienhoang128/WorkSpace/kienhoang128199x-CMakeLearningImportant/CMakeLearning/build/PowerManager/CMakeFiles/PowerManagerLib.dir
+/home/kienhoang128/WorkSpace/kienhoang128199x-CMakeLearningImportant/CMakeLearning/build/PowerManager/CMakeFiles/edit_cache.dir
+/home/kienhoang128/WorkSpace/kienhoang128199x-CMakeLearningImportant/CMakeLearning/build/PowerManager/CMakeFiles/rebuild_cache.dir

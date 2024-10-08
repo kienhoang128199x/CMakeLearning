@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMyLib64Library.a CMakeFiles/MyLib64Library.dir/lib.cpp.o
+/usr/bin/ranlib libMyLib64Library.a
