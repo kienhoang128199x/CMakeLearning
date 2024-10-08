@@ -1,2 +1,0 @@
-/usr/bin/ar qc libPowerManagerLib.a CMakeFiles/PowerManagerLib.dir/powerMgr.cpp.o
-/usr/bin/ranlib libPowerManagerLib.a
