@@ -39,7 +39,7 @@ add_executable(fileRun main.cpp ./PowerManager/powerMgr.cpp)
 add_subdirectory(${PROJECT_SOURCE_DIR}/lib/lib64)
 add_subdirectory(${PROJECT_SOURCE_DIR}/PowerManager)
 
-# the new library target is linked to the executable target using target_link_libraries().                    
+# the generated libraries (.a, .so) is linked to the executable target using target_link_libraries().                    
 target_link_libraries(fileRun PUBLIC 
                         MyLib64Library
                         PowerManagerLib
@@ -51,11 +51,11 @@ target_link_libraries(fileRun PUBLIC
 target_include_directories(fileRun PUBLIC
                         "${PROJECT_BINARY_DIR}"
                         "${PROJECT_SOURCE_DIR}/lib/lib64"
-                        "${PROJECT_SOURCE_DIR}/PowerManager"
                         "${PROJECT_SOURCE_DIR}/lib/shareLib"
                         "${PROJECT_SOURCE_DIR}/lib/staticLib"
-#                         #   "/home/worker/delete/cmakeTutorial/build"
-#                         "${PROJECT_SOURCE_DIR}/myLib/lib64"
+                        # "${PROJECT_SOURCE_DIR}/PowerManager"
+                        #   "/home/worker/delete/cmakeTutorial/build"
+                        # "${PROJECT_SOURCE_DIR}/myLib/lib64"
                           )           
 
 

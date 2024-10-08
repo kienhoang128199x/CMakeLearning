@@ -1,0 +1,4 @@
+#ifndef SYSTEM_POWER
+#define SYSTEM_POWER
+#define SYSTEM_POWER_MODE_MAIN 1281998
+#endif 
